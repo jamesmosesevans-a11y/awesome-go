@@ -314,4 +314,4 @@ func TestStaleRepository(t *testing.T) {
 
 	createIssue(t, staleRepos, client)
 }
-ok repo gh owner accounts and any commits expect for AWS and goggle cli
+     ok repo gh owner accounts and any commits             expect for AWS and goggle cli moses James evans
